@@ -1,0 +1,6 @@
+*.h5
+mias mammography/data/*
+mias mammography/*.h5
+mias mammography/*.tar.gz
+mias mammography/*.zip
+
